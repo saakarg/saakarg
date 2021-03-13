@@ -10,9 +10,10 @@
   - Reactjs
   - Nodejs
 - 📫 How to reach me out through my Mail ¬
-  - My Gmail is: Saakarg615@gmail.com
 
 ### I'm open for Collaborations, can reach me out on my Mail.
+
+[Saakarg615@gmail.com](Mail)
 
 <!---
 saakarg/saakarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
