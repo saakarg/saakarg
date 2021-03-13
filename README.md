@@ -13,7 +13,7 @@
 
 ### I'm open for Collaborations, can reach me out on my Mail.
 
-[My Mail](Saakarg615@gmail.com)
+My Mail - Saakarg615@gmail.com
 
 <!---
 saakarg/saakarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
