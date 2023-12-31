@@ -17,20 +17,31 @@ I've been learning to code for 6 years. I started with HTML, but found the love 
 ### Socials
   
 <p align="left">
-      <a href="https://www.github.com/saakarx" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/saakarx" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
-    </a>
-      <a href="https://www.x.com/cea_horse" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.x.com/cea_horse" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
-    </a></p>### Badges<b>My GitHub Stats</b><a
-      href="http://www.github.com/saakarx"><img src="https://github-readme-stats.vercel.app/api?username=saakarx&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="saakarx's GitHub stats" /></a><a
-      href="http://www.github.com/saakarx"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=saakarx&stroke=64748b&background=171717&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+  </a>
+</p>
+    
+### Badges
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/saakarx">
+  <img src="https://github-readme-stats.vercel.app/api?username=saakarx&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="saakarx's GitHub stats" />
+</a>
+
+
+
+<a href="http://www.github.com/saakarx">      
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saakarx&stroke=64748b&background=171717&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
+</a>
