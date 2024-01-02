@@ -45,3 +45,7 @@ I've been learning to code for 6 years. I started with HTML, but found the love 
 <a href="http://www.github.com/saakarx">      
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saakarx&stroke=64748b&background=171717&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
 </a>
+
+
+
+![](https://komarev.com/ghpvc/?username=saakarx)
